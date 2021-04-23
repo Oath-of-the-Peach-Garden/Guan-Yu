@@ -3,12 +3,12 @@
 
 def solution(jobs):
     answer = 0
-    jobs.sort(key=lambda x: x[1])
+    jobs.sort(key=lambda x: (x[0],x[1]))
     print(jobs)
     hap=0
     start=0
     for _,j in jobs:
-        
+
     return answer
 
 jobs=[[0, 3], [1, 9], [2, 6]]
