@@ -77,9 +77,9 @@ programmers 문제 단계별로 풀기
 
 | Week19 | Week20 | Week24 | Week25 |
 |---|---|---|---|
-| :heavy_check_mark: N으로 표현 | 섬 연결하기 | 여행경로 | 등굣길 |
-| :heavy_check_mark: 가장 먼 노드 | 디스크 컨트롤러 | 이중우선순위큐 | 풍선 터트리기 |
-| :heavy_check_mark: 단속카메라 | 입국심사 | 순위 | 스타 수열 |
+| :heavy_check_mark: N으로 표현 | :heavy_check_mark: 섬 연결하기 | 여행경로 | :heavy_check_mark: 등굣길 |
+| :heavy_check_mark: 가장 먼 노드 | :heavy_check_mark: 디스크 컨트롤러 | 이중우선순위큐 | :heavy_check_mark: 풍선 터트리기 |
+| :heavy_check_mark: 단속카메라 | 입국심사 | 순위 | :heavy_check_mark: 스타 수열 |
 
 | Week26 | Week27 |
 |---|---|
